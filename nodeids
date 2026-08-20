@@ -1,0 +1,8 @@
+[
+  "tests/test_api.py::test_health_and_answer_flow",
+  "tests/test_api.py::test_production_management_api_fails_closed_without_key",
+  "tests/test_api.py::test_public_site_exposes_indexing_files",
+  "tests/test_evaluation.py::test_evaluation_detects_uncited_answer",
+  "tests/test_evaluation.py::test_evaluation_rewards_cited_expected_concepts",
+  "tests/test_retrieval.py::test_store_ranks_related_document_first"
+]
